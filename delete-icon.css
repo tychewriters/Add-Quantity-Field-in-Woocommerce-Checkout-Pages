@@ -1,0 +1,42 @@
+/* Styles for delete icon in classic checkout page */
+.woocommerce table.shop_table .quantity-and-remove {
+    display: flex;
+    align-items: center;
+}
+
+.woocommerce table.shop_table .quantity-and-remove .delete {
+    color: grey; /* Change icon color to grey */
+    font-size: 20px;
+    font-weight: 700;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    width: 20px;
+    cursor: pointer; /* Hand cursor on hover */
+    margin-left: 5px; /* Adjust space between quantity input and delete icon */
+}
+
+.woocommerce table.shop_table .quantity-and-remove .delete:hover {
+    color: darkgrey; /* Change color on hover to a darker grey */
+}
+
+/* Styles for delete icon */
+.quantity-selector .delete-icon {
+    color: grey; /* Change icon color to grey */
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 700;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    text-decoration: none;
+    vertical-align: middle;
+    width: 20px;
+    cursor: pointer; /* Changes cursor to hand symbol on hover */
+}
+
+.quantity-selector .delete-icon:hover {
+    color: darkgrey; /* Optional: Change color on hover to a darker grey */
+}
