@@ -4,7 +4,7 @@
  * Plugin Name: Quantity Input Field in Checkout Page
  * Description: Adds a quantity selector to the checkout page and updates prices dynamically.
  * Version: 1.0
- * Author: Your Name
+ * Author: Tyche Softwares
  */
 
 // Register and enqueue the JavaScript and CSS files
