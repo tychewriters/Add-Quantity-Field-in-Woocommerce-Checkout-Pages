@@ -1,4 +1,3 @@
-
 <?php
 /**
  * Plugin Name: Quantity Input Field in Checkout Page
